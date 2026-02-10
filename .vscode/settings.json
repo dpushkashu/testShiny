@@ -1,3 +1,4 @@
 {
-    "positron.assistant.toolDetails.enable": true
+    "positron.assistant.toolDetails.enable": true,
+    "positron.notebook.enabled": true
 }
